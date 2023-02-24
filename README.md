@@ -1,6 +1,7 @@
-# New-AGE-GROCERY-STORE-Managemnet-system-in-c-using-OOP-concepts
+# New-AGE-GROCERY-STORE-Managemnet-system-in-c++-using-OOP-concepts
 New age Grocery store is a Management system that I create in C++ using OOP concepts and using binary file handling file also contain UML diagram to Understand the working of the software
 
+Here is the berief detail of the project requirement
 
 A large grocery store company is revamping their business and moving from manual to automated
 processes and management. The company has branches all over Pakistan and wants you to develop
