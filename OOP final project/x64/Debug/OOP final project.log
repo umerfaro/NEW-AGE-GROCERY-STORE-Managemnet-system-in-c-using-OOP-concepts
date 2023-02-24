@@ -1,0 +1,71 @@
+﻿  Admin.cpp
+D:\programming\Opp repeat again\OOP final project\OOP final project\checkoutsimulation.h(15,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\Admin.cpp(159,7): warning C4101: 'n': unreferenced local variable
+  Cashondelivery.cpp
+  CraditCard.cpp
+  customer.cpp
+D:\programming\Opp repeat again\OOP final project\OOP final project\customer.cpp(597,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\customer.cpp(679,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Easypaisa.cpp
+  feedback.cpp
+  Inventory.cpp
+D:\programming\Opp repeat again\OOP final project\OOP final project\checkoutsimulation.h(15,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\Inventory.cpp(245,10): warning C4129: 'T': unrecognized character escape sequence
+D:\programming\Opp repeat again\OOP final project\OOP final project\Inventory.cpp(798,14): warning C4129: 'T': unrecognized character escape sequence
+D:\programming\Opp repeat again\OOP final project\OOP final project\Inventory.cpp(258,17): warning C4309: 'initializing': truncation of constant value
+D:\programming\Opp repeat again\OOP final project\OOP final project\Inventory.cpp(285,42): message : see reference to function template instantiation 'void modify<std::string>(p)' being compiled
+          with
+          [
+              p=std::string
+          ]
+D:\programming\Opp repeat again\OOP final project\OOP final project\Inventory.cpp(452,23): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\Inventory.cpp(481,45): message : see reference to function template instantiation 'void refilllll<std::string>(p)' being compiled
+          with
+          [
+              p=std::string
+          ]
+D:\programming\Opp repeat again\OOP final project\OOP final project\Inventory.cpp(633,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\Inventory.cpp(837,64): message : see reference to function template instantiation 'void cart<std::string>(p,p,int)' being compiled
+          with
+          [
+              p=std::string
+          ]
+D:\programming\Opp repeat again\OOP final project\OOP final project\Inventory.cpp(709,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\Inventory.cpp(764,28): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+  Jazzcash.cpp
+  Manager.cpp
+  Manager1.cpp
+D:\programming\Opp repeat again\OOP final project\OOP final project\Manager1.cpp(79,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\Manager1.cpp(139,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Manager2.cpp
+D:\programming\Opp repeat again\OOP final project\OOP final project\Manager2.cpp(87,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\Manager2.cpp(146,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Manager3.cpp
+D:\programming\Opp repeat again\OOP final project\OOP final project\Manager3.cpp(87,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\Manager3.cpp(202,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  NEW_AGE_GROCERY_STORE.cpp
+  Non_Perishable_Goods.cpp
+  PaymnetControllClass.cpp
+  PerishableGood.cpp
+  productCatalog.cpp
+D:\programming\Opp repeat again\OOP final project\OOP final project\productCatalog.cpp(158,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\productCatalog.cpp(188,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\productCatalog.cpp(218,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\productCatalog.cpp(247,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\productCatalog.cpp(276,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\productCatalog.cpp(305,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\productCatalog.cpp(334,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\productCatalog.cpp(363,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\programming\Opp repeat again\OOP final project\OOP final project\productCatalog.cpp(392,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Starthere.cpp
+  user.cpp
+  Generating Code...
+D:\programming\Opp repeat again\OOP final project\OOP final project\user.cpp(26): warning C4715: 'Userclass::login': not all control paths return a value
+D:\programming\Opp repeat again\OOP final project\OOP final project\Manager3.cpp(151): warning C4715: 'Manager3::login2': not all control paths return a value
+D:\programming\Opp repeat again\OOP final project\OOP final project\Manager2.cpp(211): warning C4715: 'Manager2::login2': not all control paths return a value
+D:\programming\Opp repeat again\OOP final project\OOP final project\Manager1.cpp(213): warning C4715: 'Manager1::login2': not all control paths return a value
+D:\programming\Opp repeat again\OOP final project\OOP final project\Manager.cpp(194): warning C4715: 'Manager::login': not all control paths return a value
+D:\programming\Opp repeat again\OOP final project\OOP final project\customer.cpp(251): warning C4715: 'Customer::login': not all control paths return a value
+D:\programming\Opp repeat again\OOP final project\OOP final project\Admin.cpp(350): warning C4715: 'Admin::login': not all control paths return a value
+D:\programming\Opp repeat again\OOP final project\OOP final project\checkoutsimulation.h(104): warning C4715: 'Simulation::checkEXpressLane_9_Items_or_less': not all control paths return a value
+  OOP final project.vcxproj -> D:\programming\Opp repeat again\OOP final project\x64\Debug\OOP final project.exe
